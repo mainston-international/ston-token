@@ -1,0 +1,15 @@
+{
+  "name": "ston-token",
+  "version": "1.0.0",
+  "description": "The smart contract code for the STON token. The token is ERC20 compatible and makes the full transaction history available. Additional functionality (such as voting) is implemented externally leveraging this feature. The token supply is limited to 370 million tokens and is created during minting and can not be changed later.",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {
+    "bignumber.js": "^9.0.0",
+    "chai": "^4.2.0",
+    "chai-bn": "^0.1.1"
+  },
+  "scripts": {},
+  "author": "",
+  "private": true
+}
